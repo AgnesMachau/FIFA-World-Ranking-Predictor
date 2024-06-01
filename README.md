@@ -1,4 +1,4 @@
-# Moringa-Core-Independent-Projects-Moringa_Data_Science_Core_Independent_Project_Week_6.ipynb
+# FIFA World Ranking Predictor
 ## Introduction
 
 After a long period testing and analysing the best way to calculate the FIFA/Coca-Cola World Ranking, a new model took effect in August 2018 after approval by the FIFA Council.
